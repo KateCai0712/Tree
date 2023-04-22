@@ -1,12 +1,3 @@
-//This code was adopted from Data Structures and Algorithms in Java / Edition 2 by Robert Lafore
-// tree.java
-// demonstrates binary search tree
-
-//HW3 QUESTION: provide the implementation of the methods below + TEST all your methods in the main by using the menu in the main (see main method)
-//Make sure your code works (either compiled in command line (terminal) or in Eclipse. 
-
-
-
 import java.io.*;
 import java.util.*;               // for Stack class if needed
 ////////////////////////////////////////////////////////////////
